@@ -6,6 +6,7 @@ cycle-values
 Cycle through values.
 
 ```js
+// npm install cycle-values
 var cycle = require('cycle-values')
 
 // cycle(Array values = [])
@@ -26,4 +27,7 @@ console.log(nums(-1))
 // > 3
 ```
 
+Dev
+---
 
+`npm test` for testing the code after doing an `npm install`
