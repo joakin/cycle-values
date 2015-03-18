@@ -1,7 +1,7 @@
 {
   "name": "cycle-values",
   "version": "1.0.0",
-  "description": "Cycle values provided",
+  "description": "Cycle through an array values",
   "main": "index.js",
   "scripts": {
     "test": "tape tests/*"
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "cycle",
+    "array",
     "values",
     "repeat"
   ],
