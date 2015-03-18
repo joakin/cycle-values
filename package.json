@@ -1,0 +1,31 @@
+{
+  "name": "cycle-values",
+  "version": "1.0.0",
+  "description": "Cycle values provided",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joakin/cycle-values"
+  },
+  "keywords": [
+    "cycle",
+    "values",
+    "repeat"
+  ],
+  "author": "Joaquin Oltra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joakin/cycle-values/issues"
+  },
+  "homepage": "https://github.com/joakin/cycle-values",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "dependencies": {
+    "isnumber": "^1.0.0",
+    "mod-loop": "0.0.2"
+  }
+}
